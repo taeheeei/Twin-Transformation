@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <!--title 작성-->
+    <title>2026 Twin Transformation 산업시찰단</title>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8"></meta>
+  </head>
+  <body link="white">
+    <div align="center">
+      <!--src 속성값에 웹호스팅서비스(github 등 활용)에 그림 업로드후 링크 작성, width 및 height 속성값은 그림 속성을 확인하여 너비(width)와 높이(height) 확인하여 작성-->
+      <p><img src="https://static.wixstatic.com/media/9e2ecb_2f6a359229724b999f61f62fc4aed9af~mv2.jpg" width="1000" height="3400" usemap="#Map"></p>
+    </div>
+    <map name="Map">
+      <!--coords 속성값은 그림판에서 왼쪽상단 모서리 픽셀값 1,2번째에 작성, 오른쪽 하단 모서리 픽셀값 3,4번째에 작성, href 속성값은 이동하려는 링크로 작성-->
+      <area shape="rect" coords="258, 3197, 743, 3281" href="https://answer.moaform.com/answers/Mj8q9w" target="_blank"></area>
+    </map>
+  </body>
+</html>
